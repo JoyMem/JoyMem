@@ -46,7 +46,7 @@ a)	Chinese scene: password length = 8, and a user can remember the password effo
 
 [Phase 1:](https://youtu.be/7v8NninXJ0E)
 
-[Phase 2:]()
+[Phase 2:](https://youtu.be/brdaTWDldFA)
 
 b)	Chinese scene: password length = 12, and a user can remember the password through memory training
 
