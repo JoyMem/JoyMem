@@ -44,27 +44,27 @@ Due to high maintenance costs, we closed the experimental platform after complet
 
 a)	Chinese scene: password length = 8, and a user can remember the password effortlessly
 
-[Phase 1:](https://youtu.be/7v8NninXJ0E)
+[Phase 1:https://youtu.be/7v8NninXJ0E](https://youtu.be/7v8NninXJ0E)
 
-[Phase 2:](https://youtu.be/brdaTWDldFA)
+[Phase 2:https://youtu.be/ofCIvZ-pwhs](https://youtu.be/ofCIvZ-pwhs)
 
 b)	Chinese scene: password length = 12, and a user can remember the password through memory training
 
-[Phase 1:]()
+[Phase 1:https://youtu.be/brdaTWDldFA](https://youtu.be/brdaTWDldFA)
 
-[Phase 2:]()
+[Phase 2:https://youtu.be/71RkafmPnV8](https://youtu.be/71RkafmPnV8)
 
 c)	English scene: password length = 8, and a user can remember the password effortlessly
 
-[Phase 1:]()
+[Phase 1:https://youtu.be/mDm8Sk8q048](https://youtu.be/mDm8Sk8q048)
 
-[Phase 2:]()
+[Phase 2:https://youtu.be/mJ4AeobypCA](https://youtu.be/mJ4AeobypCA)
 
 d)	English scene: password length = 12, and a user can remember the password through memory training
 
-[Phase 1:]()
+[Phase 1:https://youtu.be/khlEojJuBnE](https://youtu.be/khlEojJuBnE)
 
-[Phase 2:]()
+[Phase 2:https://youtu.be/vlok6h0SHwQ](https://youtu.be/vlok6h0SHwQ)
 
 ## <font face="Times New Roman" color=black size=6>Section 3.  Experimental results of the usability experiment of JoyMem</font>
 <font face="Times New Roman">
