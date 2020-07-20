@@ -24,6 +24,23 @@
 
 ***Questionnaire 1.*** The questionnaire asks the participant whether she records the password. If she does not forget the password in Short-term recall of Phase 1, after 48 hours, she will be invited to participate in Phase 2. In particular, for an English participant, we will assign a corresponding survey code, which is her voucher for getting rewards for Phase 1 on Amazon’s Mechanical Turk (MTurk) and participating in Phase 2 of the usability experiment.</font>
 
+Due to high maintenance costs, we closed the experimental platform after completing the usability experiment. However, to give readers an intuitive impression, we provide several **demonstration videos** of the usability experiment of JoyMem in Chinese and English scenarios. We choose 8 and 12 as the representative password lengths, corresponding to 2 and 3 questions that need to be answered respectively. 
+
+***The video list is as follows:***
+a)	Chinese scene: password length = 8, and a user can remember the password effortlessly
+[Phase 1:]()
+Phase 2:
+b)	Chinese scene: password length = 12, and a user can remember the password through memory training
+Phase 1:
+Phase 2:
+c)	English scene: password length = 8, and a user can remember the password effortlessly
+Phase 1:
+Phase 2:
+d)	English scene: password length = 12, and a user can remember the password through memory training
+Phase 1:
+Phase 2:
+
+
 #### <font face="Times New Roman">**- Phase 2.**</font>
 <font face="Times New Roman">
 
