@@ -15,9 +15,13 @@
 ***Collection of demographic information.*** The webpage displays “Imagine you are registering an e-commerce account, please follow the system prompts and remember the generated password”. A participant shall fill in her email, gender, age, highest degree and occupation (whether she is an information security practitioner).
 
 ***Password generation.*** A participant selects the desired password length (8~20) and questions, and answers the questions. Next, JoyMem generates a password and displays it with the understandable password annotation on the webpage. 
+
 ***Memory training.*** A participant is required to enter the password correctly 3 times to end memory training. When the participant forgets the password, she can click the button on the webpage to view the password, and then she is required to re-enter the password correctly 3 times.
+
 ***Memory interference.*** A participant is asked to watch a 3-minute video.
+
 ***Short-term recall.*** A participant is asked to enter the password correctly within 5 attempts. Otherwise, she is believed to forget the password.
+
 ***Questionnaire 1.*** The questionnaire asks the participant whether she records the password. If she does not forget the password in Short-term recall of Phase 1, after 48 hours, she will be invited to participate in Phase 2. In particular, for an English participant, we will assign a corresponding survey code, which is her voucher for getting rewards for Phase 1 on Amazon’s Mechanical Turk (MTurk) and participating in Phase 2 of the usability experiment.</font>
 
 #### <font face="Times New Roman">**- Phase 2.**</font>
@@ -26,6 +30,7 @@
 ***Verification of demographic information.*** A participant shall fill in the same personal information as in Phase 1 before passing the identity authentication of Phase 2. An English participant shall fill in an additional survey code. 
 
 ***Long-term recall.*** Similar to Short-term recall of Phase 1, a participant is asked to enter the password correctly within 5 attempts. Otherwise, she is believed to forget the password. 
+
 ***Questionnaire 2.*** The questionnaire asks the participant whether she records the password. Specially, for an English participant, we will assign her a new survey code, which is the voucher for her to receive the remuneration of Phase 2. 
 </font>
 
