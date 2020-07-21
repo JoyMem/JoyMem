@@ -7,7 +7,7 @@
 
 
 ## <font face="Times New Roman" color=black size=6>Section 2. Design of the usability experiment of JoyMem</font>
-#### <font face="Times New Roman">**▶ The usability experiment includes the following two phases:**</font> 
+#### <font face="Times New Roman">** The usability experiment includes the following two phases:**</font> 
 
 #### <font face="Times New Roman">●  Phase 1.</font>
 <font face="Times New Roman">
@@ -41,7 +41,7 @@
 
 Due to high maintenance costs, we closed the experimental platform after completing the usability experiment. However, to give readers an intuitive impression, we provide several **demonstration videos** of the usability experiment of JoyMem in Chinese and English scenarios. We choose 8 and 12 as the representative password lengths, corresponding to 2 and 3 questions that need to be answered respectively. 
 
-#### **▶ The video list is as follows:**
+#### ** The video list is as follows:**
 
 a)	Chinese scene: password length = 8, and a user can remember the password effortlessly
 
