@@ -7,9 +7,9 @@
 
 
 ## <font face="Times New Roman" color=black size=6>Section 2. Design of the usability experiment of JoyMem</font>
-<font face="Times New Roman">The usability experiment includes the following two phases.</font>
+***<font face="Times New Roman">The usability experiment includes the following two phases:</font>***
 
-#### <font face="Times New Roman">**- Phase 1.**</font>
+### <font face="Times New Roman">**- Phase 1.**</font>
 <font face="Times New Roman">
 
 ***Collection of demographic information.*** The webpage displays “Imagine you are registering an e-commerce account, please follow the system prompts and remember the generated password”. A participant shall fill in her email, gender, age, highest degree and occupation (whether she is an information security practitioner).
@@ -28,7 +28,7 @@
 
 
 
-#### <font face="Times New Roman">**- Phase 2.**</font>
+### <font face="Times New Roman">**- Phase 2.**</font>
 <font face="Times New Roman">
 
 ***Verification of demographic information.*** A participant shall fill in the same personal information as in Phase 1 before passing the identity authentication of Phase 2. An English participant shall fill in an additional survey code. 
